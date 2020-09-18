@@ -5,11 +5,11 @@ function preload() {
 
 
 function setup() {
-  createCanvas(800,400);
+  createCanvas(600,600);
  
 }
 
 function draw() {
-  background("white");  
+  background("black");  
   
 }
